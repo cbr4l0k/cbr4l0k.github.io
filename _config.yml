@@ -111,24 +111,15 @@ author:
   location         : "Somewhere"
   email            :
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin fa-rotate-180"
+      url: "https://www.linkedin.com/in/cbr4l0k"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github fa-rotate-180"
+      url: "https://github.com/cbr4l0k"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
